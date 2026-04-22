@@ -40,7 +40,7 @@ These labs cover the core concepts of Python and Data Science:
 ---
 
 ## 📈 Intermediate Project  
-### 🎯 Student Performance Analysis
+### 🎯 Diabites Analysis
 - Data cleaning and preprocessing  
 - Data visualization 📊  
 - Correlation analysis  
